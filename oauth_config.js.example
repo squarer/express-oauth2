@@ -1,0 +1,8 @@
+var config = {};
+
+config.github = {
+  client_id: '',
+  client_secret: ''
+}
+
+module.exports = config;
