@@ -1,8 +1,9 @@
 {
   "name": "express-oauth2",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Quick and easy oauth for express",
   "main": "lib/route.js",
+  "repository": "squarer/express-oauth2",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
