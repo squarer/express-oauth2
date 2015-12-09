@@ -1,6 +1,6 @@
 {
   "name": "express-oauth2",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Quick and easy oauth for express",
   "main": "lib/route.js",
   "repository": "squarer/express-oauth2",
@@ -9,7 +9,8 @@
   },
   "keywords": [
     "oauth",
-    "github"
+    "github",
+    "google"
   ],
   "author": "squarerliao <squarerliao@gmail.com>",
   "license": "MIT",

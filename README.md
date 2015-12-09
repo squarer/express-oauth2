@@ -24,7 +24,8 @@ require('express-oauth2')(app, config);
 ```
 
 ``` html
-<a href="github_authorize">login</a>
+<a href="/auth/github">login via github</a>
+<a href="/auth/google">login via google</a>
 ```
 
 ``` js

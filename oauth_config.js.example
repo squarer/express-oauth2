@@ -3,7 +3,13 @@ var config = {};
 config.github = {
   client_id: '',
   client_secret: '',
-  redirect_uri: 'http://localhost:3000/callback'
+  redirect_uri: 'http://myapp/github_oauth_callback'
+}
+
+config.google = {
+  client_id: '',
+  client_secret: '',
+  redirect_uri: 'http://myapp/google_oauth_callback'
 }
 
 module.exports = config;
